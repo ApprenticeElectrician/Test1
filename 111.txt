@@ -1,1 +1,11 @@
-45678
+git clone https://github.com/ApprenticeElectrician/Test1.git
+
+git pull
+
+git add .
+
+git commit -m "change some files"
+
+git push
+
+git 
